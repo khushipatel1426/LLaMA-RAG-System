@@ -1,0 +1,17 @@
+.env
+.env.*
+*.token
+secrets.json
+config.local.*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+uploads/
+*.pdf
+!README.md
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
