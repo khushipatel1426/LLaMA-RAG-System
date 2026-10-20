@@ -44,7 +44,7 @@ Access to the gated Llama model may require approval from Hugging Face. GPU avai
 
 ## Repository contents
 
-- `23AI07_NLP_workshop_llama_rag_colab.ipynb` — the Colab notebook with saved cell outputs cleared
+- `LLama_RAG_colab.ipynb` — the Colab notebook with saved cell outputs cleared
 - `screenshots/` — selected project screenshots (add only sanitized images)
 - `requirements.txt` — core Python package list; the notebook installs dependencies itself
 - `.gitignore` — excludes common secrets, local data, and generated files
